@@ -7,6 +7,5 @@ public class Drink {
     String component1;
     String component2;
     String component3;
-
     int capacity;
 }
