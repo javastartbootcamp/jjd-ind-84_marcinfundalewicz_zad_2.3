@@ -1,7 +1,7 @@
 package pl.javastart.task;
 
 public class Drink {
-    Mojito mojito;
+    Ingredient ingredient;
     String name;
     double price;
     boolean alcoholUsage;

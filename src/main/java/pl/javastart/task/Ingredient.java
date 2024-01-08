@@ -1,6 +1,6 @@
 package pl.javastart.task;
 
-public class Mojito {
+public class Ingredient {
     String nameIngredient1;
     String nameIngredient2;
     String nameIngredient3;
